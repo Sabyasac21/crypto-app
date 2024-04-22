@@ -1,0 +1,356 @@
+{
+    "coins": [
+      {
+        "name": "Bitcoin",
+        "h_change": "+3.5%",
+        "d_change": "+12.1%",
+        "market_cap": "$1,000,000,000,000",
+        "volume": "$50,000,000,000",
+        "price": "$50,000",
+        "circulating_supply": "18,750,000 BTC"
+      },
+      {
+        "name": "Ethereum",
+        "h_change": "+5.2%",
+        "d_change": "+15.8%",
+        "market_cap": "$300,000,000,000",
+        "volume": "$20,000,000,000",
+        "price": "$3,000",
+        "circulating_supply": "100,000,000 ETH"
+      },
+      {
+        "name": "Binance Coin",
+        "h_change": "+4.1%",
+        "d_change": "+11.5%",
+        "market_cap": "$100,000,000,000",
+        "volume": "$10,000,000,000",
+        "price": "$500",
+        "circulating_supply": "200,000,000 BNB"
+      },
+      {
+        "name": "Cardano",
+        "h_change": "+2.8%",
+        "d_change": "+8.3%",
+        "market_cap": "$70,000,000,000",
+        "volume": "$5,000,000,000",
+        "price": "$2.50",
+        "circulating_supply": "28,000,000,000 ADA"
+      },
+      {
+        "name": "Solana",
+        "h_change": "+8.6%",
+        "d_change": "+21.4%",
+        "market_cap": "$50,000,000,000",
+        "volume": "$3,000,000,000",
+        "price": "$150",
+        "circulating_supply": "333,333,333 SOL"
+      },
+      {
+        "name": "XRPS",
+        "h_change": "+1.9%",
+        "d_change": "+6.7%",
+        "market_cap": "$40,000,000,000",
+        "volume": "$2,500,000,000",
+        "price": "$1000",
+        "circulating_supply": "40,000,000,000 XRP"
+      },
+      {
+        "name": "Polkadot",
+        "h_change": "+6.3%",
+        "d_change": "+18.9%",
+        "market_cap": "$35,000,000,000",
+        "volume": "$2,000,000,000",
+        "price": "$35",
+        "circulating_supply": "1,000,000,000 DOT"
+      },
+      {
+        "name": "Dogecoin",
+        "h_change": "+2.0%",
+        "d_change": "+7.5%",
+        "market_cap": "$30,000,000,000",
+        "volume": "$1,500,000,000",
+        "price": "$0.25",
+        "circulating_supply": "120,000,000,000 DOGE"
+      },
+      {
+        "name": "Chainlink",
+        "h_change": "+3.7%",
+        "d_change": "+9.8%",
+        "market_cap": "$25,000,000,000",
+        "volume": "$1,200,000,000",
+        "price": "$25",
+        "circulating_supply": "1,000,000,000 LINK"
+      },
+      {
+        "name": "Avalanche",
+        "h_change": "+7.4%",
+        "d_change": "+23.2%",
+        "market_cap": "$20,000,000,000",
+        "volume": "$1,000,000,000",
+        "price": "$100",
+        "circulating_supply": "200,000,000 AVAX"
+      },
+      {
+        "name": "Polkadot",
+        "h_change": "+6.3%",
+        "d_change": "+18.9%",
+        "market_cap": "$35,000,000,000",
+        "volume": "$2,000,000,000",
+        "price": "$35",
+        "circulating_supply": "1,000,000,000 DOT"
+      },
+      {
+        "name": "Dogecoin",
+        "h_change": "+2.0%",
+        "d_change": "+7.5%",
+        "market_cap": "$30,000,000,000",
+        "volume": "$1,500,000,000",
+        "price": "$0.25",
+        "circulating_supply": "120,000,000,000 DOGE"
+      },
+      {
+        "name": "Chainlink",
+        "h_change": "+3.7%",
+        "d_change": "+9.8%",
+        "market_cap": "$25,000,000,000",
+        "volume": "$1,200,000,000",
+        "price": "$25",
+        "circulating_supply": "1,000,000,000 LINK"
+      },
+      {
+        "name": "Avalanche",
+        "h_change": "+7.4%",
+        "d_change": "+23.2%",
+        "market_cap": "$20,000,000,000",
+        "volume": "$1,000,000,000",
+        "price": "$100",
+        "circulating_supply": "200,000,000 AVAX"
+      },
+      {
+        "name": "Bitcoin",
+        "h_change": "+3.5%",
+        "d_change": "+12.1%",
+        "market_cap": "$1,000,000,000,000",
+        "volume": "$50,000,000,000",
+        "price": "$50,000",
+        "circulating_supply": "18,750,000 BTC"
+      },
+      {
+        "name": "Ethereum",
+        "h_change": "+5.2%",
+        "d_change": "+15.8%",
+        "market_cap": "$300,000,000,000",
+        "volume": "$20,000,000,000",
+        "price": "$3,000",
+        "circulating_supply": "100,000,000 ETH"
+      },
+      {
+        "name": "Binance Coin",
+        "h_change": "+4.1%",
+        "d_change": "+11.5%",
+        "market_cap": "$100,000,000,000",
+        "volume": "$10,000,000,000",
+        "price": "$500",
+        "circulating_supply": "200,000,000 BNB"
+      },
+      {
+        "name": "Cardano",
+        "h_change": "+2.8%",
+        "d_change": "+8.3%",
+        "market_cap": "$70,000,000,000",
+        "volume": "$5,000,000,000",
+        "price": "$2.50",
+        "circulating_supply": "28,000,000,000 ADA"
+      },
+      {
+        "name": "Solana",
+        "h_change": "+8.6%",
+        "d_change": "+21.4%",
+        "market_cap": "$50,000,000,000",
+        "volume": "$3,000,000,000",
+        "price": "$150",
+        "circulating_supply": "333,333,333 SOL"
+      },
+      {
+        "name": "XRPS",
+        "h_change": "+1.9%",
+        "d_change": "+6.7%",
+        "market_cap": "$40,000,000,000",
+        "volume": "$2,500,000,000",
+        "price": "$1000",
+        "circulating_supply": "40,000,000,000 XRP"
+      },
+      {
+        "name": "Bitcoin",
+        "h_change": "+3.5%",
+        "d_change": "+12.1%",
+        "market_cap": "$1,000,000,000,000",
+        "volume": "$50,000,000,000",
+        "price": "$50,000",
+        "circulating_supply": "18,750,000 BTC"
+      },
+      {
+        "name": "Ethereum",
+        "h_change": "+5.2%",
+        "d_change": "+15.8%",
+        "market_cap": "$300,000,000,000",
+        "volume": "$20,000,000,000",
+        "price": "$3,000",
+        "circulating_supply": "100,000,000 ETH"
+      },
+      {
+        "name": "Binance Coin",
+        "h_change": "+4.1%",
+        "d_change": "+11.5%",
+        "market_cap": "$100,000,000,000",
+        "volume": "$10,000,000,000",
+        "price": "$500",
+        "circulating_supply": "200,000,000 BNB"
+      },
+      {
+        "name": "Cardano",
+        "h_change": "+2.8%",
+        "d_change": "+8.3%",
+        "market_cap": "$70,000,000,000",
+        "volume": "$5,000,000,000",
+        "price": "$2.50",
+        "circulating_supply": "28,000,000,000 ADA"
+      },
+      {
+        "name": "Solana",
+        "h_change": "+8.6%",
+        "d_change": "+21.4%",
+        "market_cap": "$50,000,000,000",
+        "volume": "$3,000,000,000",
+        "price": "$150",
+        "circulating_supply": "333,333,333 SOL"
+      },
+      {
+        "name": "XRPS",
+        "h_change": "+1.9%",
+        "d_change": "+6.7%",
+        "market_cap": "$40,000,000,000",
+        "volume": "$2,500,000,000",
+        "price": "$1000",
+        "circulating_supply": "40,000,000,000 XRP"
+      },
+      {
+        "name": "Binance Coin",
+        "h_change": "+4.1%",
+        "d_change": "+11.5%",
+        "market_cap": "$100,000,000,000",
+        "volume": "$10,000,000,000",
+        "price": "$500",
+        "circulating_supply": "200,000,000 BNB"
+      },
+      {
+        "name": "Cardano",
+        "h_change": "+2.8%",
+        "d_change": "+8.3%",
+        "market_cap": "$70,000,000,000",
+        "volume": "$5,000,000,000",
+        "price": "$2.50",
+        "circulating_supply": "28,000,000,000 ADA"
+      },
+      {
+        "name": "Solana",
+        "h_change": "+8.6%",
+        "d_change": "+21.4%",
+        "market_cap": "$50,000,000,000",
+        "volume": "$3,000,000,000",
+        "price": "$150",
+        "circulating_supply": "333,333,333 SOL"
+      },
+      {
+        "name": "XRPS",
+        "h_change": "+1.9%",
+        "d_change": "+6.7%",
+        "market_cap": "$40,000,000,000",
+        "volume": "$2,500,000,000",
+        "price": "$1000",
+        "circulating_supply": "40,000,000,000 XRP"
+      },
+      {
+        "name": "Bitcoin",
+        "h_change": "+3.5%",
+        "d_change": "+12.1%",
+        "market_cap": "$1,000,000,000,000",
+        "volume": "$50,000,000,000",
+        "price": "$50,000",
+        "circulating_supply": "18,750,000 BTC"
+      },
+      {
+        "name": "Avalanche",
+        "h_change": "+7.4%",
+        "d_change": "+23.2%",
+        "market_cap": "$20,000,000,000",
+        "volume": "$1,000,000,000",
+        "price": "$100",
+        "circulating_supply": "200,000,000 AVAX"
+      },
+      {
+        "name": "Polkadot",
+        "h_change": "+6.3%",
+        "d_change": "+18.9%",
+        "market_cap": "$35,000,000,000",
+        "volume": "$2,000,000,000",
+        "price": "$35",
+        "circulating_supply": "1,000,000,000 DOT"
+      },
+      {
+        "name": "Dogecoin",
+        "h_change": "+2.0%",
+        "d_change": "+7.5%",
+        "market_cap": "$30,000,000,000",
+        "volume": "$1,500,000,000",
+        "price": "$0.25",
+        "circulating_supply": "120,000,000,000 DOGE"
+      },
+      {
+        "name": "Chainlink",
+        "h_change": "+3.7%",
+        "d_change": "+9.8%",
+        "market_cap": "$25,000,000,000",
+        "volume": "$1,200,000,000",
+        "price": "$25",
+        "circulating_supply": "1,000,000,000 LINK"
+      },
+      {
+        "name": "Avalanche",
+        "h_change": "+7.4%",
+        "d_change": "+23.2%",
+        "market_cap": "$20,000,000,000",
+        "volume": "$1,000,000,000",
+        "price": "$100",
+        "circulating_supply": "200,000,000 AVAX"
+      },
+      {
+        "name": "Bitcoin",
+        "h_change": "+3.5%",
+        "d_change": "+12.1%",
+        "market_cap": "$1,000,000,000,000",
+        "volume": "$50,000,000,000",
+        "price": "$50,000",
+        "circulating_supply": "18,750,000 BTC"
+      },
+      {
+        "name": "Ethereum",
+        "h_change": "+5.2%",
+        "d_change": "+15.8%",
+        "market_cap": "$300,000,000,000",
+        "volume": "$20,000,000,000",
+        "price": "$3,000",
+        "circulating_supply": "100,000,000 ETH"
+      },
+      {
+        "name": "Binance Coin",
+        "h_change": "+4.1%",
+        "d_change": "+11.5%",
+        "market_cap": "$100,000,000,000",
+        "volume": "$10,000,000,000",
+        "price": "$500",
+        "circulating_supply": "200,000,000 BNB"
+      }
+    ]
+  }
+  

@@ -1,0 +1,81 @@
+.crypto-cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    /* background-color: rgb(180, 234, 180); */
+    
+}
+
+ .crypto-cont .main-container{
+    width: 80%;
+    
+} 
+
+.col-identifier{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    padding: 1rem;
+    border-top: 1px solid rgb(193, 191, 191);
+}
+
+
+
+.crypto-list{
+    width: 110%;
+    flex-shrink: 0;
+    /* background: red; */
+}
+
+.pagination{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: end;
+}
+
+
+::-webkit-scrollbar{
+    display: none;
+}
+.crypto-list-container{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgb(218, 215, 215);
+    padding: 1rem;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+
+@media screen and (max-width:600px) {
+    .large-screen, .cnt, .day, .market-cap, .volume, .cir-sup, .dots{
+        display: none;
+        
+    }
+
+    .name, .price{
+        gap: .1rem;
+        font-weight: bolder;
+    }
+
+    .pagination{
+        justify-content: center;
+    }
+
+    
+
+     
+}
+
+
+
+
