@@ -26,4 +26,4 @@ Upon clicking on any crypto a backdrop card is popped showing the details of the
 To clone the project code on your local system use this link https://github.com/Sabyasac21/crypto-app.git
 
 ##### Deployement
-The project is deployed on the vercel app and can be accessed using this link crypto-app-nu-jade.vercel.app
+The project is deployed on the vercel app and can be accessed [Crypto-App](crypto-app-nu-jade.vercel.app)
