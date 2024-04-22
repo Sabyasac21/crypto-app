@@ -41,7 +41,7 @@ function Intro() {
         
 
         <div className='heading-cont'>
-            <div className='heading'>
+            <div className='heading' style={{marginLeft:'2.5rem'}}>
                 <h1>Top 100 Cryptocurrencies by market cap</h1>
             </div>
         </div>
